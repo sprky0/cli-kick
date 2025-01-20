@@ -1,6 +1,6 @@
 # clikick
 
-A minimal command-line utility in C that generates a 909-style kick drum (APPROPIMATELY JEEEEEZ) as a 24-bit, 48 kHz WAV and writes it either to stdout or a file.
+A minimal command-line utility in C that generates a 909-style kick drum (APPROXIMATELY JEEEEEZ) as a 24-bit, 48 kHz WAV and writes it either to stdout or a file.
 
 ## Features
 
